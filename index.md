@@ -1,5 +1,5 @@
 # Factors Affecting High Performance Computing – Case Study and Result Comparison Using a Self Created Benchmark Tool
-I had recently purchased the iPhone X and was showing it off to my friends. One of them, Sumeet, told me that it wasn’t as great as I made it sound and that the S9 plus and the OnePlus 6T were better phones.
+I had recently purchased the iPhone X and was showing it off to my friends. Sumeet and Bander told me that it wasn’t as great as I made it sound and that the S9 plus and the OnePlus 6T were better phones.
 Our argument was based purely on the performance of the phones because we believed that there was no basis to compare the designs as each had their pros and cons.
 We were thinking about how we could compare the phones when we came across a ‘Benchmarking’ paper in our High-Performance Computing class. Upon digging deeper into it, we found out there were many tools that could be used for the same.
 After careful consideration (of user ratings) we decided on using AnTuTu, Geekbench and PerformanceTest Mobile.
@@ -53,4 +53,4 @@ Our tool creates SHA-1 and MD5 hashes of a string ‘The big brown fox jumps ove
 
 We created the tool in such a way so as to present a score, lower is better.
 These were our results when running our benchmark tool on the S9+ and OnePlus 6T. As you can see that even though the scoring systems differ, the S9+ performs better than the OnePlus 6T. The GeekBench scores are 1.5X better for the S9+, whereas our score is 2X better. We feel that if we can add more constraints to the score, we can make the score even better.
-This project led us to discover a lot of things w.r.t architectures, memory management, optimizations, etc. We wish to move forward with it and improve the benchmark tool, adding more single core computations, and maybe applying methods that could help us determine the power of the GPUs in the devices.
+This project led us to discover a lot of things with respect to architectures, memory management, optimizations, etc. We wish to move forward with it and improve the benchmark tool, adding more single core computations, and maybe applying methods that could help us determine the power of the GPUs in the devices.
