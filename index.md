@@ -3,9 +3,13 @@ I had recently purchased the iPhone X and was showing it off to my friends. Sume
 Our argument was based purely on the performance of the phones because we believed that there was no basis to compare the designs as each had their pros and cons.
 We were thinking about how we could compare the phones when we came across a ‘Benchmarking’ paper in our High-Performance Computing class. Upon digging deeper into it, we found out there were many tools that could be used for the same.
 After careful consideration (of user ratings) we decided on using AnTuTu, Geekbench and PerformanceTest Mobile.
+
 •	GeekBench V4.3.2 (Android) vs GeekBench 4 (iOS)
+
 •	AnTuTu V7.1.9 (Android) vs AnTuTu 7.2.1 (iOS)
+
 •	PerformanceTest Mobile V1.2.0 (Android, iOS)
+
 We observed various results, some weird, and some that gave us insight into why maybe a certain phone was performing better than the other. We didn’t stop here. Instead we moved on to researching why certain anomalies were present in the results, and we found some striking things.
 Screenshots of Benchmarks:
 
